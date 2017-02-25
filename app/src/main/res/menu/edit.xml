@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.ecspoo.classhole.MainActivity">
+    <item
+        android:id="@+id/editclassesreset"
+        android:title="还原"
+        app:showAsAction="always" />/>
+    <item
+        android:id="@+id/editclassesfinish"
+        android:title="完成"
+        app:showAsAction="always" />/>
+</menu>

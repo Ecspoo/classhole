@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.ecspoo.classhole.MainActivity">
+    <item
+        android:id="@+id/editclasses"
+        android:title="创建或编辑"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/otherweek"
+        android:title="查看其他周"
+        app:showAsAction="always"/>
+</menu>
